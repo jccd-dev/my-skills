@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3ab5214d-316b-43a3-9ac7-e0071dacd2f9",
+  "path": "antislop-layoutmobile",
+  "path_key": "antislop-layoutmobile",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

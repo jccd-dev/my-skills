@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fe9b7b79-4da8-4e2c-aae6-36c89f586e50",
+  "path": "antislop",
+  "path_key": "antislop",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

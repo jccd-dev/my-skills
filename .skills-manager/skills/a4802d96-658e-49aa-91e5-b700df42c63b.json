@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a4802d96-658e-49aa-91e5-b700df42c63b",
+  "path": "test-scope-triage",
+  "path_key": "test-scope-triage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

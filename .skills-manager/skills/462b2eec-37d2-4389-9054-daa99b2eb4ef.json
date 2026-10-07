@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "462b2eec-37d2-4389-9054-daa99b2eb4ef",
+  "path": "security-and-hardening",
+  "path_key": "security-and-hardening",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c7909caa-d579-4755-aaaf-38ce91a38f18",
+  "path": "vps-admin-deploy-access",
+  "path_key": "vps-admin-deploy-access",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

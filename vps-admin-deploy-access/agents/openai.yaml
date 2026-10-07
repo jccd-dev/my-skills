@@ -1,0 +1,4 @@
+interface:
+  display_name: "VPS Admin and CI Access"
+  short_description: "Separate SSH access for admins and CI"
+  default_prompt: "Use $vps-admin-deploy-access to set up secure human-admin and CI deployment SSH access on my VPS."

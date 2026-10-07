@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learn Skill"
+  short_description: "Explain completed coding work when explicitly requested."
+  default_prompt: "Use $learn-skill to explain what changed after the coding task finishes."

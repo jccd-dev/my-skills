@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dce76c8b-2aab-4ae7-b776-d6602068eaf1",
+  "path": "antislop-copywriting",
+  "path_key": "antislop-copywriting",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
